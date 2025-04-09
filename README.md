@@ -13,9 +13,9 @@
 ## インストール
 
 ```bash
-git clone https://github.com/yourusername/DMD.git
+git clone https://github.com/tabata-yoshito/DMD.git
 cd DMD
-pip install -r requirements.txt
+poetry install
 ```
 
 ## 必要条件
@@ -115,4 +115,4 @@ MIT License
 
 ## 作者
 
-Your Name 
+tabata-yoshito
